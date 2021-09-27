@@ -1,0 +1,2 @@
+# SensorScripts
+RaspberryPiで温湿度センサーを使う
